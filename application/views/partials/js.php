@@ -1,0 +1,5 @@
+<script src="<?= base_url('sb-admin') ?>/vendor/jquery/jquery.min.js"></script>
+<script src="<?= base_url('sb-admin') ?>/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?= base_url('sb-admin') ?>/vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="<?= base_url('sb-admin') ?>/js/sb-admin-2.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
