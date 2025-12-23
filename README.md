@@ -51,6 +51,4 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 8. Untuk login `admin` kalian bisa menggunakan username = `nugrohoff` dan password `pwd_nugroho`
 9. Untuk login `petugas` kalian bisa menggunakan username = `PTGS35` dan password `pwd_fanani`
 
-### Tentang Saya
 
-Fakhrul Nugroho siswa Kelas 12 Jurusan Teknik Komputer Informatika di SMK Negeri 1 Wanareja. https://www.instagram.com/nugrohospace/
